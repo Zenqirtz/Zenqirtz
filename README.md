@@ -14,14 +14,14 @@
 
 ## 💫 About Me
 
-Halo! Saya **Arga**, seorang mahasiswa **Universitas Brawijaya** yang berbasis di **Malang, Jawa Timur, Indonesia** 🇮🇩. Saya memiliki minat besar dalam pengembangan aplikasi web (Full-Stack Web Development) dan integrasi sistem pintar (IoT/Smart Systems).
+Halo! Saya **Muhammad Arga Pradana**, seorang mahasiswa **Universitas Brawijaya** yang berbasis di **Malang, Jawa Timur, Indonesia** 🇮🇩. Saya memiliki minat besar dalam pengembangan aplikasi web (Full-Stack Web Development) dan integrasi sistem pintar (Internet of Things/Smart Systems).
 
 Saya suka membangun proyek-proyek inovatif yang menggabungkan antara perangkat keras (IoT) dan sistem web modern untuk memecahkan masalah sehari-hari.
 
-- 🎓 **Pendidikan**: Mahasiswa S1 di **Universitas Brawijaya** (Malang)
+- 🎓 **Pendidikan**: Mahasiswa D3 di **Universitas Brawijaya** (Malang)
 - 💼 **Fokus**: Full-Stack Development (Laravel & JavaScript) & Smart Devices (Arduino & ESP32)
 - 📍 **Lokasi**: Kota Malang, Jawa Timur, Indonesia
-- ✉️ **Hubungi Saya**: `argapradana@student.ub.ac.id` (atau melalui tautan sosial di bawah!)
+- ✉️ **Hubungi Saya**: `argad5033@gmail.com` (atau melalui tautan sosial di bawah!)
 
 ---
 
@@ -82,15 +82,11 @@ Di bawah ini adalah statistik performa coding saya di GitHub:
 
 Animasi di bawah ini menunjukkan riwayat kontribusi saya yang dikemas secara interaktif dalam bentuk game ular klasik. 
 
-*(Animasi ini diperbarui secara otomatis setiap hari via GitHub Actions)*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
 </picture>
-
-*(Silakan lihat panduan pengaturan di direktori proyek Anda untuk mengaktifkan animasi ini).*
 
 ---
 
