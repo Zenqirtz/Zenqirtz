@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;IoT+%26+Smart+System+Enthusiast;Undergraduate+at+Brawijaya+University" alt="Typing Animation" />
 </div>
 
+<!-- Visitor Counter & Badges -->
+<div align="center">
+  <img src="https://komarev.com/normal-badge.png?id=Zenqirtz&style=flat-square&color=39D353&label=Profile+Views" alt="Visitor Counter" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Zenqirtz?label=Followers&style=flat-square&color=1182c1" alt="Followers Badge" />
+</div>
+
 <br />
 
 ---
@@ -45,7 +52,7 @@ Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk mereal
   <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
 </p>
 
-### 📟 Internet of Things 
+### 📟 Internet of Things
 <p align="left">
   <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /></a>
@@ -73,7 +80,7 @@ Di bawah ini adalah statistik performa coding saya di GitHub:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenqirtz&theme=tokyonight&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&bg_color=1a1b26" height="185px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zenqirtz&theme=tokyonight&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&bg_color=1a1b26" height="185px" alt="GitHub Streak" />
 </p>
 
 ---
