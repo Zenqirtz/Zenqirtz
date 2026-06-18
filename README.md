@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;IoT+%26+Smart+System+Enthusiast;Undergraduate+at+Brawijaya+University" alt="Typing Animation" />
 </div>
 
-<!-- Visitor Counter & Badges -->
-<div align="center">
-  <img src="https://komarev.com/normal-badge.png?id=Zenqirtz&style=flat-square&color=39D353&label=Profile+Views" alt="Visitor Counter" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Zenqirtz?label=Followers&style=flat-square&color=1182c1" alt="Followers Badge" />
-</div>
-
 <br />
 
 ---
