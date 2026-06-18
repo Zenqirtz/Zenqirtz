@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;IoT+%26+Smart+System+Enthusiast;Undergraduate+at+Brawijaya+University" alt="Typing Animation" />
 </div>
 
+<!-- Visitor Counter & Badges -->
+<div align="center">
+  <img src="https://komarev.com/normal-badge.png?id=Zenqirtz&style=flat-square&color=39D353&label=Profile+Views" alt="Visitor Counter" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Zenqirtz?label=Followers&style=flat-square&color=1182c1" alt="Followers Badge" />
+</div>
+
 <br />
 
 ---
@@ -62,19 +69,40 @@ Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk mereal
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-Di bawah ini adalah statistik performa coding saya di GitHub:
+Di bawah ini adalah pencapaian dan statistik performa coding saya di GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zenqirtz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=39D353&text_color=a9b1d6&icon_color=39D353&bg_color=1a1b26" height="185px" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenqirtz&layout=compact&theme=tokyonight&hide_border=true&title_color=39D353&text_color=a9b1d6&bg_color=1a1b26" height="185px" alt="Top Languages" />
-</p>
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zenqirtz&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zenqirtz&theme=tokyonight&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&bg_color=1a1b26" height="185px" alt="GitHub Streak" />
-</p>
+<br />
+
+<!-- Stats Cards Grid -->
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Zenqirtz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=39D353&text_color=a9b1d6&icon_color=39D353&bg_color=1a1b26" height="195px" alt="GitHub Stats" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenqirtz&layout=compact&theme=tokyonight&hide_border=true&title_color=39D353&text_color=a9b1d6&bg_color=1a1b26&langs_count=6" height="195px" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=Zenqirtz&theme=tokyonight&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&bg_color=1a1b26" height="195px" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
+<div align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenqirtz&theme=tokyonight&bg_color=1a1b26&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
 
 ---
 
