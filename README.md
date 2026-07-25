@@ -62,43 +62,6 @@ Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk mereal
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-Di bawah ini adalah pencapaian dan statistik performa coding saya di GitHub:
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zenqirtz&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<!-- Stats Cards Grid -->
-<table align="center" border="0" cellpadding="5" cellspacing="0">
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Zenqirtz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=39D353&text_color=a9b1d6&icon_color=39D353&bg_color=1a1b26" height="195px" alt="GitHub Stats" />
-    </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenqirtz&layout=compact&theme=tokyonight&hide_border=true&title_color=39D353&text_color=a9b1d6&bg_color=1a1b26&langs_count=6" height="195px" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Zenqirtz&theme=tokyonight&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&bg_color=1a1b26" height="195px" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Activity Graph -->
-<div align="center">
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenqirtz&theme=tokyonight&bg_color=1a1b26&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-
----
-
 ## 🕹️ GitHub Contribution Snake Game
 
 Animasi di bawah ini menunjukkan riwayat kontribusi saya yang dikemas secara interaktif dalam bentuk game ular klasik. 
