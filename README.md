@@ -1,17 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Muhammad%20Arga%20Pradana&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;IoT+%26+Smart+System+Enthusiast;Undergraduate+at+Brawijaya+University" alt="Typing Animation" />
-</div>
-
-<br />
-
----
-
 ## 💫 About Me
 
 Halo! Saya **Muhammad Arga Pradana**, seorang mahasiswa **Universitas Brawijaya** yang berbasis di **Malang, Jawa Timur, Indonesia** 🇮🇩. Saya memiliki minat besar dalam pengembangan aplikasi web (Full-Stack Web Development) dan integrasi sistem pintar (Internet of Things/Smart Systems).
