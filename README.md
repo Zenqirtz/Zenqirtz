@@ -1,23 +1,39 @@
+<div align="center">
+
+# 🚀 Hi, I'm Muhammad Arga Pradana!
+### Full-Stack Web Developer & IoT Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arga-pradana-969276409)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arrpdn_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:argad5033@gmail.com)
+
+</div>
+
+---
+
 ## 💫 About Me
 
-Halo! Saya **Muhammad Arga Pradana**, seorang mahasiswa **Universitas Brawijaya** yang berbasis di **Malang, Jawa Timur, Indonesia** 🇮🇩. Saya memiliki minat besar dalam pengembangan aplikasi web (Full-Stack Web Development) dan integrasi sistem pintar (Internet of Things/Smart Systems).
+Halo! Saya **Muhammad Arga Pradana**, seorang mahasiswa **Universitas Brawijaya** yang berbasis di **Malang, Jawa Timur, Indonesia** 🇮🇩. 
 
-Saya suka membangun proyek-proyek inovatif yang menggabungkan antara perangkat keras (IoT) dan sistem web modern untuk memecahkan masalah sehari-hari.
+Saya memiliki minat besar dalam pengembangan aplikasi web (*Full-Stack Web Development*) dan integrasi sistem pintar (*Internet of Things/Smart Systems*). Saya suka membangun proyek-proyek inovatif yang menggabungkan antara perangkat keras (IoT) dan sistem web modern untuk memecahkan masalah sehari-hari.
 
-- 🎓 **Pendidikan**: Mahasiswa D3 di **Universitas Brawijaya** (Malang)
-- 💼 **Fokus**: Full-Stack Development (Laravel & JavaScript) & Smart Devices (Arduino & ESP32)
-- 📍 **Lokasi**: Kota Malang, Jawa Timur, Indonesia
-- ✉️ **Hubungi Saya**: `argad5033@gmail.com` (atau melalui tautan sosial di bawah!)
+* 🎓 **Pendidikan**: Mahasiswa D3 di **Universitas Brawijaya** (Malang)
+* 💼 **Fokus**: Full-Stack Development (Laravel, Modern JS Ecosystem) & Smart Devices (Arduino & ESP32)
+* 📍 **Lokasi**: Kota Malang, Jawa Timur, Indonesia
+* ✉️ **Hubungi Saya**: `argad5033@gmail.com`
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk merealisasikan proyek-proyek saya:
+Berikut adalah teknologi, framework, dan peralatan yang biasa saya gunakan untuk merealisasikan proyek-proyek saya:
 
-### 🌐 Web & Backend Development
+### 🌐 Web & Frameworks
 <p align="left">
   <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://inertiajs.com" target="_blank"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" /></a>
   <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
@@ -25,20 +41,20 @@ Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk mereal
 
 ### 🎨 Frontend Styling
 <p align="left">
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
 </p>
 
-### 📟 Internet of Things
+### 📟 Internet of Things (IoT)
 <p align="left">
   <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 </p>
 
-### ⚙️ Database & DevOps / Tools
+### ⚙️ Database, Tools & Workflow
 <p align="left">
   <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -50,29 +66,24 @@ Saya menggunakan berbagai macam teknologi, framework, dan peralatan untuk mereal
 
 ## 🕹️ GitHub Contribution Snake Game
 
-Animasi di bawah ini menunjukkan riwayat kontribusi saya yang dikemas secara interaktif dalam bentuk game ular klasik. 
+Animasi di bawah ini menunjukkan riwayat kontribusi saya yang dikemas secara interaktif dalam bentuk game ular klasik.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zenqirtz/Zenqirtz/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## 🤝 Connect with Me
+<div align="center">
 
-Saya selalu terbuka untuk kolaborasi proyek baru, diskusi teknologi, atau sekadar bertukar pikiran:
+<i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-arga-pradana-969276409?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/arrpdn_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:argad5033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/>
 
-<hr />
+⭐️ Jangan ragu untuk memberikan bintang pada proyek-proyek saya jika menurut Anda menarik! ⭐️
 
-<p align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i> <br />
-  ⭐️ Jangan ragu untuk memberikan bintang pada proyek-proyek saya jika menurut Anda menarik! ⭐️
-</p>
+</div>
