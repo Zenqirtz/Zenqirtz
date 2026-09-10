@@ -15,7 +15,9 @@
 <br/><br/>
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Zenqirtz&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://hits.seeyoufarm.dev">
+  <img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZenqirtz&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+</a>
 
 </div>
 
